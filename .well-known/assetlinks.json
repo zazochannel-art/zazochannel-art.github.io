@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.kultura",
+      "sha256_cert_fingerprints": [
+        "8A:1B:F1:AA:A9:59:72:EE:B1:48:A2:AF:FB:03:E5:3F:2E:AF:51:C9:60:FB:52:1A:3C:60:09:04:9B:46:F9:E0"
+      ]
+    }
+  }
+]
